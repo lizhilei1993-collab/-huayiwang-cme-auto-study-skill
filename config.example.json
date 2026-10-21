@@ -1,0 +1,15 @@
+{
+  "host": "https://cme.example.com/",
+  "cdn_base": "https://cdn.example.com",
+  "user": "your_account",
+  "password": "your_password",
+  "data_dir": "./ab",
+  "alive_check": "https://cme.example.com/pages/course.aspx?cid=<任选一门已报名课程ID>",
+  "alive_marker": "data-cwrid",
+  "courses": {
+    "<课程ID>": "课程名称"
+  },
+  "course_list": [
+    ["c1", "课程名称", "<课程ID>", "course_c1.html"]
+  ]
+}

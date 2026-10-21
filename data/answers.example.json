@@ -1,0 +1,4 @@
+{
+  "_comment": "答案库示例：键为题目ID(qid)，值为正确选项字母；运行时会自动积累到 ab/answers.json（已 gitignore）",
+  "EXAMPLE-QID-0001": "A"
+}

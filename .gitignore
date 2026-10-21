@@ -1,0 +1,11 @@
+# 运行时数据（含 cookie / 验证码 / 日志，禁止提交）
+ab/
+config.json
+data/answers.json
+data/courses.json
+__pycache__/
+*.pyc
+*.log
+cookies*.json
+captcha*
+shots/
